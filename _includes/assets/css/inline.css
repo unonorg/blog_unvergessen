@@ -46,6 +46,11 @@ img {
 	height: auto;
 }
 
+header {
+	max-width: 37.5em;
+	background-image: url("/static/img/unvergessen_blog_header.jpg");
+}
+
 header,
 main,
 footer {
